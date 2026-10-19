@@ -3,7 +3,7 @@ import time
 
 # Данные для доступа
 API_KEY = "lw_UajEkyjbkndm3Bx-d0gSg54baQ-UF77lOo1i2hxn4F0"
-BASE_URL = "https://sms-activate.org"
+BASE_URL = "https://sms-activate.org/stry.php"
 
 # 1. Запрашиваем номер для конкретного сервиса (например, 'tg' - Telegram, 'go' - Google)
 # country=0 — это Россия (код страны можно менять)
